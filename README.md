@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Naveen Patil</h1>
-<h3 align="center">🚀 Network Engineer | ⚙️ DevOps Engineer | ☁️ Cloud Enthusiast</h3>
+<h3 align="center">🚀 Network Engineer | ⚙️ DevOps Enthusiast | ☁️ Cloud Enthusiast</h3>
 
 <!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Jenkins+%7C+Docker;Networking+Expert;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Enthusiast;AWS+%7C+Jenkins+%7C+Docker;Network+Engineer;Always+Learning+New+Things" />
 </p>
 
 ---
