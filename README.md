@@ -1,25 +1,30 @@
-# Hi 👋, I'm Naveen Patil
+<!-- HEADER -->
+<h1 align="center">Hi 👋, I'm Naveen Patil</h1>
+<h3 align="center">🚀 Network Engineer | ⚙️ DevOps Engineer | ☁️ Cloud Enthusiast</h3>
 
-### 🚀  Network Engineer  |  DevOps Engineer | Cloud Enthusiast ☁️
-
-I am passionate about building scalable infrastructure, automating deployments, and working with cloud technologies.  
-Currently working on **DevOps + Networking projects**.
-
----
-
-## 🌱 Currently Learning
-- Kubernetes ☸️  
-- Advanced AWS DevOps  
-- CI/CD Pipelines  
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Jenkins+%7C+Docker;Networking+Expert;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 👨‍💻 Projects
+## 🧠 About Me
+
+- 🔭 Working on **DevOps & Network Automation**
+- 🌱 Learning **Kubernetes & Advanced AWS**
+- 💡 Passionate about **Cloud + Networking**
+- ⚡ I automate everything I can 😄
+
+---
+
+## 🚀 Projects
+
 - 🔧 Network Monitoring System (.NET + SQL)
 - 🚀 Jenkins CI/CD Setup on AWS
 - 🌐 VLAN & Network Design Labs
 
-👉 Check out my repositories:  
+👉 Explore more:  
 https://github.com/Naveenp07
 
 ---
@@ -27,26 +32,35 @@ https://github.com/Naveenp07
 ## 🧰 Tech Stack
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,nginx" />
+</p>
 
 ### 💻 Programming
-![C#](https://img.shields.io/badge/C%23-.NET-purple?logo=c-sharp)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,python,bash" />
+</p>
 
 ### 🌐 Networking
-- VLANs  
 - Routing & Switching  
+- VLANs  
 - Troubleshooting  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveenp07&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Naveenp07&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenp07&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -58,12 +72,32 @@ https://github.com/Naveenp07
 
 ---
 
-## 📫 Connect with Me
+## 👀 Profile Views
 
-- 💼 LinkedIn: https://linkedin.com/in/naveen-patil-78140720a  
-- 📧 Email: naveenpatil7975@gmail.com  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Naveenp07&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/naveen-patil-78140720a">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
+  </a>
+  
+  <a href="mailto:naveenpatil7975@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail" />
+  </a>
+  
+  <a href="https://www.instagram.com/naveenp_07">
+    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram" />
+  </a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-I love solving network issues and automating everything 😄
+
+💻 I can troubleshoot networks faster than most people can Google 😄
